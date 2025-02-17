@@ -51,8 +51,7 @@ Uno script Python per automatizzare la generazione e l'invio di fatture in PDF p
    - Salva come `fatture.xlsx` nella cartella dello script.  
 
 2. **Configura l'email aziendale**:  
-   ```python
-   ```
+   
 
 3. **Esegui lo script**:  
    ```bash
